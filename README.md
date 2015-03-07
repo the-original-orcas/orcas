@@ -19,6 +19,8 @@ Users can:
 - [ ] other user stories
 - [ ] other user stories
 
+## Wireframe
+image of wireframe will go here
 
 ## ERD
 <!-- ![image of Erd] -->
